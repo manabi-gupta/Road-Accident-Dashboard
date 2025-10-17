@@ -45,6 +45,10 @@ Area and Location: Casualties are significantly higher in Urban (112.2K) areas c
 Temporal Trend: The Monthly Trend (2020) chart allows for the identification of peak accident periods throughout the year.
 
 This is The final Interactive Dashboard
+<img width="1364" height="685" alt="Final Dashboard" src="https://github.com/user-attachments/assets/7cfe9636-233c-48d9-b018-325b6a585ea4" />
+<img width="1364" height="686" alt="Screenshot 2025-10-17 210036" src="https://github.com/user-attachments/assets/3ea8b3d8-146f-4b30-af8a-8325c892157b" />
+
+
 
 
 
