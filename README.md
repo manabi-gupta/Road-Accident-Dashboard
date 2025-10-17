@@ -28,6 +28,13 @@ Even after editing I got many other errors
 I corrected then and finallythis came out to be the final dashboard
 <img width="1781" height="936" alt="Final Dashboard" src="https://github.com/user-attachments/assets/33e5beea-20af-4d61-8a88-dd85fca618ec" />
 
+Then I created the required pivot tables required for the Data analysis
+<img width="1803" height="710" alt="Pivot Tables" src="https://github.com/user-attachments/assets/4239f489-e2b5-4cf2-9ea3-2cf6d5ad90cc" />
+
+
+
+
+
 
 
 
