@@ -20,8 +20,16 @@ It is still in progress I have completed my data cleaning and data formatting.
 This is the before
 <img width="1880" height="590" alt="Before" src="https://github.com/user-attachments/assets/54c07695-211a-49dc-9ba9-85d4541a1431" />
 
-And this is how it looks .
+And this is how it looks now.
 <img width="1761" height="640" alt="After" src="https://github.com/user-attachments/assets/4069a2f2-9d11-4b5f-a7e3-9a428c6afbed" />
+Even after editing I got many other errors 
+- Numbers were in text form
+- Even after edinting in the power query there were still few word what were joint together when got loaded in excel, they had unwanted spaces, blanks etc
+I corrected then and finallythis came out to be the final dashboard
+<img width="1781" height="936" alt="Final Dashboard" src="https://github.com/user-attachments/assets/33e5beea-20af-4d61-8a88-dd85fca618ec" />
+
+
+
 
 
 
