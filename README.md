@@ -31,6 +31,21 @@ I corrected then and finallythis came out to be the final dashboard
 Then I created the required pivot tables required for the Data analysis
 <img width="1803" height="710" alt="Pivot Tables" src="https://github.com/user-attachments/assets/4239f489-e2b5-4cf2-9ea3-2cf6d5ad90cc" />
 
+## Key Features and Insights
+The dashboard provides a high-level overview and drill-down capabilities on several critical areas:
+
+Overall Impact: The total number of casualties is clearly displayed at 453,050.
+Accident Severity: Analysis shows that the vast majority of incidents are of Slight Severity (82.9%), though there are still 3,678 Fatal and 27,537 Serious accidents.
+Casualty Breakdown:
+By Vehicle Type: Cars are involved in the most casualties (140,858 - 77.1%), followed by Vans/LGVs (16,168) and Motorcycles (15,414).
+By Road Type: Single Carriageway roads account for the highest volume of casualties, followed by Dual Carriageway and Roundabouts.
+By Road Surface: The majority of accidents occur on a Dry road surface, which is a crucial insight for focusing preventative measures.
+By Light Condition: Casualties are more frequent during Daylight conditions, but a significant number still occur in Darkness (45.5K).
+Area and Location: Casualties are significantly higher in Urban (112.2K) areas compared to Rural areas.
+Temporal Trend: The Monthly Trend (2020) chart allows for the identification of peak accident periods throughout the year.
+
+This is The final Interactive Dashboard
+
 
 
 
