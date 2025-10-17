@@ -47,8 +47,10 @@ Temporal Trend: The Monthly Trend (2020) chart allows for the identification of 
 This is The final Interactive Dashboard
 <img width="1364" height="685" alt="Final Dashboard" src="https://github.com/user-attachments/assets/7cfe9636-233c-48d9-b018-325b6a585ea4" />
 <img width="1364" height="686" alt="Screenshot 2025-10-17 210036" src="https://github.com/user-attachments/assets/3ea8b3d8-146f-4b30-af8a-8325c892157b" />
+<img width="1356" height="683" alt="Screenshot 2025-10-17 210115" src="https://github.com/user-attachments/assets/a47ccfc3-4191-4c13-9bd9-ff1e6e023fb0" />
 
-
+## Conclusion
+This dashboard serves as a vital tool for stakeholders—including government agencies, transport planners, and law enforcement—to identify high-risk areas and factors. The insights can directly inform strategic decisions to improve road safety, such as targeted infrastructure improvements or public awareness campaigns.
 
 
 
