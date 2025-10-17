@@ -31,6 +31,10 @@ I corrected then and finallythis came out to be the final dashboard
 Then I created the required pivot tables required for the Data analysis
 <img width="1803" height="710" alt="Pivot Tables" src="https://github.com/user-attachments/assets/4239f489-e2b5-4cf2-9ea3-2cf6d5ad90cc" />
 
+After which I created the layout for my Dashboard
+<img width="1229" height="643" alt="Screenshot 2025-10-17 160915" src="https://github.com/user-attachments/assets/4411a727-628c-4a80-b881-22042585b039" />
+
+
 ## Key Features and Insights
 The dashboard provides a high-level overview and drill-down capabilities on several critical areas:
 
